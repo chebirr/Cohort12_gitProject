@@ -1,0 +1,4 @@
+list of fruit:
+mango
+banana
+orange
