@@ -1,0 +1,6 @@
+ list of sports:
+polo
+rugby
+f1
+football
+swimming
