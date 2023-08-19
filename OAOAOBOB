@@ -1,0 +1,28 @@
+[33mcommit d58d8cf34b829eeecd731c9ef3df2d489a2ef93a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: chebirr <chebirr@yahoo.com>
+Date:   Sun Aug 13 22:37:23 2023 -0400
+
+    modify gitFile1 and create 3 new files
+
+[1mdiff --git a/gitFile.txt b/gitFile.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..9e8a2bc[m
+[1m--- /dev/null[m
+[1m+++ b/gitFile.txt[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32mlist of fruit:[m
+[32m+[m[32mmango[m
+[32m+[m[32mbanana[m
+[32m+[m[32morange[m
+[1mdiff --git a/gitFile1.txt b/gitFile1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/gitfile2.txt b/gitfile2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/gitfile3.txt b/gitfile3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/gitfile4.txt b/gitfile4.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
